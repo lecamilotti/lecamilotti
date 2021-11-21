@@ -1,9 +1,6 @@
 👋 Hi, I’m Leandro Camilotti
-👀 I’m interested to have a chance as web developer Junior, I have some backgroung in code since 2006 using pascal, Qbasic, Visual Basic and C++,
-but I never worked with it in the past, I have always worked on the server side, like windows server and computer network and field engineer.
-Now I am back to learning and update my skills on this code world and I hope in the future I can get my first job as web developer.
-🌱 I’m currently learning  HTML, CSS and JavaScript, React, Redux, Firebase, Node.Js.
-💞️ I’m looking to collaborate on new projects and learning from it to became a senior in the future and leave my mark on the company who will help me get there.
+👀 I'm a passionate and ambitious web developer who believes that web applications make a positive impact in people's life. I am always proactively learning new ways to build my skill set and add tools that will compliment those skills. I´m currently on a Code BootCamp building my experience with own projects using tools like HTML, CSS, JavaScript, ReactJS, TypeScript, styled components, express, and Node.js.
+💞️ I’m looking to collaborate on new projects and learning from it and leave my mark on the company who will help me get there.
 📫 You can reach me on my Linkedin https://www.linkedin.com/in/leandrocamilotti/
 
 <!---

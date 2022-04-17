@@ -41,7 +41,7 @@ I´m a passionate and ambitious Frontend developer who believes that a web appli
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.git.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" width="65" height="36" alt="Git" /></a>
-<a href="https://www.atlassian.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Jira-software_rgb_blue%281%29.svg/2560px-Jira-software_rgb_blue%281%29.svg.png" width="110" height="30" alt="Jira" /></a>  
+<a href="https://www.atlassian.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Jira-software_rgb_blue%281%29.svg/2560px-Jira-software_rgb_blue%281%29.svg.png" width="100" height="36" color="black" alt="Jira" /></a>  
 </p>
 
 

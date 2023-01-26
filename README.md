@@ -4,7 +4,7 @@ Hi 👋 My name is Leandro Camilotti
 FrontEnd Developer
 ------------------
 
-I´m a passionate and ambitious Frontend developer who believes that a web applications can make´s a positive impact in people´s life. I´m always proactively learning new ways to build my skill set and add tools that will compliment those skills, currently I´m doing an Code BootCamp and started as a trainee in a company that are helping me feeding myself with knowledge and learning about, ReactJs, NextJs, TypeScript, Styled Components, Sass, express and NodeJS.
+I´m a passionate and ambitious Frontend developer who believes that a web applications can make´s a positive impact in people´s life. I´m always proactively learning new ways to build my skill set and add tools that will compliment those skills, currently I´m working as frontend developer in a fintech in Denamark, just after finish my code bootcamp and this job are feeding me with lots of knowledge and experience with ReactJs, redux and so on and in the main time I´m still studying and creating own projects using NextJs, TypeScript, Styled Components, Sass, express and NodeJS.
 
 * 🌍  I'm based in Aarhus, Denmark
 * 🖥️  See my portfolio at [MyPortifolio](http://leandrocamilotti.com)

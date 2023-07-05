@@ -4,14 +4,14 @@ Hi 👋 My name is Leandro Camilotti
 FrontEnd Developer
 ------------------
 
-I´m a passionate and ambitious Frontend developer who believes that a web applications can make´s a positive impact in people´s life. I´m always proactively learning new ways to build my skill set and add tools that will compliment those skills, currently I´m working as frontend developer in a fintech in Denamark, just after finish my code bootcamp and this job are feeding me with lots of knowledge and experience with ReactJs, redux and so on and in the main time I´m still studying and creating own projects using NextJs, TypeScript, Styled Components, Sass, express and NodeJS.
+I am a passionate and ambitious Frontend developer who strongly believes in the power of web applications to create a positive impact in people's lives. I am constantly proactive in learning new techniques to enhance my skill set and incorporate new tools that complement my abilities. Currently, I am working as a frontend developer in a fintech company in Denmark. This job has provided me with valuable knowledge and experience working with technologies such as ReactJs, Redux, CI/CD, Selenium, MySQL workbench and AWS. In my spare time, I continue to study and work on personal projects utilizing NextJs, TypeScript, Styled Components, Sass, Express, and NodeJS.
 
 * 🌍  I'm based in Aarhus, Denmark
 * 🖥️  See my portfolio at [MyPortifolio](http://leandrocamilotti.com)
 * ✉️  You can contact me at [lecamilotti@gmail.com](mailto:lecamilotti@gmail.com)
 * 🚀  I'm currently working on [CMC Development (denti & sundhed+)](http://www.sundhedplus.dk)
-* 🧠  I'm learning NextJS / TypeScript / and Working with ReactJs learning every single day some thing new about React world!
-* 🤝  I'm open to collaborating on Any kind of projects that will first of all help on day lifes people, in especial if you have a project for help blind people I would love to contribute in some way to make it real since I have blind people in my family I see how it is hard some times for them.
+* 🧠  I'm currently learning NextJS / TypeScript 
+* 🤝  I'm open to collaborating on projects, especially those that help blind people due to personal experience with blind family members. Want to make a positive impact on people's lives.
 * ⚡  A curiosity about me is that I come from a system admin background, where I was able to work for more than 9 years taking care of servers, computer networks, Active Directory, Squid on Linux, routers and etc...
 
 ### Skills
